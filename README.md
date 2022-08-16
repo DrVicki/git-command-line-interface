@@ -272,3 +272,4 @@ You'll also find more advanced lessons.
 ## Assignment 
 
 Complete [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+[Post the URL Link to the repository you created when completing the assignment so everyone can see how dedicated you are to learning your craft](!!https://github.com/DrVicki/git-command-line-interface/discussions/1)
